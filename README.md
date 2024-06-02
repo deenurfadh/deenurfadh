@@ -6,13 +6,12 @@
 
 <img src="https://komarev.com/ghpvc/?deenu&style=flat-square&color=blue" alt=""/>
 
-<h2 align="center">
+<h2 align="left">
   Hi, I'm Dilah! 👋
 </h2>
 
-
 <div align="center">
-  <img src="https://github.com/deenurfadh/profile/assets/126325619/66a98de7-5675-4ac1-aea0-83612cbbaadc" width="600" height="300"/>
+  <img src="https://github.com/deenurfadh/deenurfadh/assets/126325619/391b4331-6ca0-4f25-bd68-95cefb65a057" width="600" height="300"/>
 </div>
 
 ---
@@ -39,9 +38,9 @@ I am actively seeking new opportunities to apply my expertise in data science an
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/deenurfadh/profile/assets/126325619/0f6fe481-03b8-446d-a52c-adaaf5953dfd" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/deenurfadh/profile/assets/126325619/6bad2a51-f569-4ebe-9753-3f91116496fe" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/deenurfadh/profile/assets/126325619/01cdcfe3-17ef-4f2d-9ba4-a72136070b70" title="Looker Data Studio" alt="Looker Data Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/deenurfadh/deenurfadh/assets/126325619/7ff3441e-d2e8-412f-bdd3-ce80f0e3eb80" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/deenurfadh/deenurfadh/assets/126325619/bcfe5909-62ac-47c9-bff1-1b556ef01876" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/deenurfadh/deenurfadh/assets/126325619/69aa9129-b89a-4130-9a13-4e7e37d41cd9" title="Looker Data Studio" alt="Looker Data Studio" width="40" height="40"/>&nbsp;
 </div>
 
 ---
